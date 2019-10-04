@@ -3,3 +3,5 @@ conflicting content
 a
 b
 c
+
+new line
