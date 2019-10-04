@@ -1,0 +1,5 @@
+conflicting content
+
+a
+b
+c
